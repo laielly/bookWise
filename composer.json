@@ -1,0 +1,10 @@
+{
+    "name": "laiel/book-wise",
+    "description": "A platform for managing and organizing books and reading lists",
+    "type": "project",
+    "require": {
+        "laravel/framework": "^10.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
